@@ -24,5 +24,5 @@ end
 
 def first_element_with_array_methods(array)
   south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
-  south_east_asia.push
-end 
+  south_east_asia.shift
+end
