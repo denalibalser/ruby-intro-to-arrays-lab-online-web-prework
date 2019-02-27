@@ -21,3 +21,8 @@ def last_element(array)
   array = [1, 2, 3, 4, "Out of The Woods"]
   array[-1]
 end
+
+def first_element_with_array_methods(array)
+  south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  south_east_asia.push
+end 
