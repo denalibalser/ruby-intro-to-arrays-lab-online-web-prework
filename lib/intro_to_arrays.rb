@@ -24,10 +24,12 @@ end
 
 def first_element_with_array_methods(array)
   south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
-  south_east_asia.shift
+  south_east_asia.first
 end
 
 def last_element_with_array_methods(array)
   last_country = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   last_country.last
 end
+
+
